@@ -1,0 +1,10 @@
+The java code in this directory is used to provision the Mongo DB with the information
+that the web services application will pull.
+
+The java code in this directory requires the following to compile and link:
+
+- jaudiotagger (MP3 tagging utilities: see http://www.jthink.net/jaudiotagger/)
+- apache commons (for FileUtils; see http://commons.apache.org/)
+- mongo DB Java API (for Mongo DB Java API; see http://api.mongodb.org/java/, version 2.5)
+
+The license for each of the above is in their respective web pages.
